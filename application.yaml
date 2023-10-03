@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname:  host.docker.internal
+    hostname: localhost
     prefer-ip-address: true
   client:
     fetch-registry: true
